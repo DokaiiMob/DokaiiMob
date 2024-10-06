@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я DokaiiMob! 👋
 
-<!--
-**DokaiiMob/DokaiiMob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
+Я разработчик, интересующийся веб-технологиями и созданием удобных решений для пользователей. 
 
-Here are some ideas to get you started:
+### Мои навыки
+- 🛠️ PHP, JavaScript, Rust
+- ⚡ Svelte, Bootstrap, Vite
+- 📦 Работа с базами данных и API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+- [TenderPC](https://github.com/DokaiiMob/TenderPC) — Сайт технической поддержки и сервисных услуг для компьютеров.
+  
+### Контакты
+- 📫 Email: [tenderpctsk@yandex.ru](mailto:tenderpctsk@yandex.ru)
+- 🌐 [Сайт TenderPC](https://tender-pc.ru)
