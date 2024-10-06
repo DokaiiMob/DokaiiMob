@@ -13,5 +13,3 @@
 - 📫 Email: [dokaiimob@yandex.ru](mailto:dokaiimob@yandex.ru)
 - 🌐 [Telegram](https://t.me/iphoneproRU)
 - 🌐 [ВКонтакте](https://vk.com/nmizu)
-
-Присоединяйтесь ко мне в моем путешествии в мир разработки!
