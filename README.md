@@ -12,5 +12,3 @@
 
 ### Контакты
 - 📫 Email: [dokaiimob@yandex.ru](mailto:dokaiimob@yandex.ru)
-- 🌐 [Telegram](https://t.me/iphoneproRU)
-- 🌐 [ВКонтакте](https://vk.com/nmizu)
